@@ -1,0 +1,6 @@
+2) Skenario
+a. Terjadi error empty string, dimana hal tersebut disebabkan oleh kosongnya input1 dan input2 (namun empty string pada input1 'tertangkap' terlebih dahulu). Pencegahan yang dapat dilakukan adalah dengan menggunakan pemeriksaan, dimana jika input1 kosong, maka program akan memberikan popup bahwa input1 masih kosong.
+
+b. Terjadi error empty string, dimana jenis error sama dengan error pada bagian a. Pencegahan yang dapat dilakukan sama dengan sebelumnya, dimana jika input2 kosong, maka program akan memberikan popup bahwa input1 masih kosong.
+
+c. Hasil yang diberikan adalah infinity, mengingat pembagian dengan nol belum terdefinisi hingga saat ini. Pencegahan yang dapat dilakukan adalah dengan melakukan pemeriksaan terhadap input, dimana jika input2 bernilai nol, maka program akan memberikan popup jika akan melakukan operasi bagi, dimana operasi tersebut dianggap tidak memberikan hasil yang valid.
