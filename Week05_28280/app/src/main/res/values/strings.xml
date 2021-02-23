@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week05_28280</string>
+    <string name="text_rbRect"> Rect </string>
+    <string name="text_rbOval"> Oval </string>
+    <string name="text_rbLine"> Line </string>
+    <string name="text_rbPath"> Path </string>
+</resources>

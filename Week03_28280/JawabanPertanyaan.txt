@@ -1,0 +1,9 @@
+Skenario beberapa penambahan dan pemilihan kata yang berhasil diamati adalah sebagai berikut:
+
+1. Jika sebuah kata dipilih, lalu dipilih kembali, maka kata tersebut akan bertambah "telah dipilih" sebanyak berapa kali kita pernah memilih kata tersebut.
+
+2. Jika sebuah kata dipilih sudah sangat panjang (dipilih berkali-kali), maka elemen-elemen dibawahnya akan didorong ke bawah.
+
+3. Jika ada kata yang ditambah, tidak peduli dimanakah posisi layar pada saat itu, maka posisi layar akan bergeser pada kata yang baru saja ditambah.
+
+Yang menjadi catatan adalah performa RecyclerView yang cukup baik, mengingat RecyclerView hanya membuat item dari yang sedang terlihat (visible content), sehingga aplikasi dapat berjalan dengan cukup lancar, walaupun pemilihan kata yang sudah ada dan menambah kata dilakukan berkali-kali dalam waktu yang singkat.

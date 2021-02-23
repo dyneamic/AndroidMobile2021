@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week04_28280_FragmentLayout</string>
+    <string name="button_1"> Halaman 1 </string>
+    <string name="button_2"> Halaman 2 </string>
+    <string name="Fragment1_EditText_Hint"> Tulisan </string>
+    <string name="Fragment1_Button_Text"> Ganti Tulisan </string>
+    <string name="Fragment2_Init_TextView"> Initial TextView </string>
+    <string name="Main_Activity_EditText_Hint"> Nama </string>
+</resources>
