@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week07_28280</string>
+    <string name="ButtonFoto_text"> Ambil Foto </string>
+    <string name="ButtonVideo_text"> Ambil Video </string>
+    <string name="btnKameraText"> Kamera </string>
+    <string name="btnGaleriText"> Galeri </string>
+</resources>

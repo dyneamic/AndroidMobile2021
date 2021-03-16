@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Week08A_28280</string>
+    <!-- start of radio button -->
+    <string name="rb_temp_text"> Temporary </string>
+    <string name="rb_intern_text"> Internal </string>
+    <string name="rb_extern_text"> External </string>
+    <!-- end of radio button -->
+    <string name="nama_file_hint"> Nama File </string>
+    <!-- button -->
+    <string name="btnOpen_text"> Open </string>
+    <string name="btnSave_text"> Save </string>
+    <string name="btnDelete_text"> Delete </string>
+    <string name="btnClear_text"> Clear </string>
+    <string name="btnExit_text"> Exit </string>
+</resources>

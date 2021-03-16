@@ -1,0 +1,5 @@
+1. Pada animasi property, lingkaran akan mulai membesar dari titik diklik hingga nyaris memenuhi layar, lalu kembali mengecil.
+
+2. Pada animasi drawble, gambar yang diklik akan dijalankan dengan kecepatan tertentu yang memberikan kesan bahwa gambar tersebut bergerak, dimana sebenarnya gambar yang bergerak itu adalah gabungan dari gambar-gambar yang sebenarnya tidak bergerak.
+
+3. Pada animasi fisika, spring akan menghasilkan animasi yang bersifat seperti pegas, dan fling akan menghasilkan animasi yang awalnya mempunyai momentum, lalu perlahan-lahan momentum tersebut menghilang.

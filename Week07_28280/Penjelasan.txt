@@ -1,0 +1,4 @@
+2. 
+a. Kamera bekerja dengan baik, dimana jika mengambil foto ataupun video, jika disimpan, maka hasil tangkapan akan muncul di bagian foto atau video, sesuai jenis media yang direkam.
+
+b. Galeri video bekerja dengan baik, dimana jika video yang muncul diklik, maka video akan diputar beserta dengan tampilan deskripsi pada EditText tersebut. Walaupun isi dari EditText diubah, ketika memilih tombol kembali, perubahan tidak akan disimpan, karena keterangan video di hard-code dari isiDaftarVideo();

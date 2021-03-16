@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week06_28280</string>
+    <string name="btnAnimasiPropertyText"> Animasi Property </string>
+    <string name="btnAnimasiDrawableText"> Animasi Drawable </string>
+    <string name="btnAnimasiFisikaText"> Animasi Fisika </string>
+    <string name="MySpringButton_text"> Halo\nSpring </string>
+    <string name="MyFlingButton_text"> Halo\nFling </string>
+</resources>
