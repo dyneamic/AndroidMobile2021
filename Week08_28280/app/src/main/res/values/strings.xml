@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Week08_28280</string>
+    <!-- activity main -->
+    <string name="btnTextEditor_text"> Text Editor </string>
+    <string name="btnSharedPreference_text"> Shared Preference </string>
+    <!-- start of radio button -->
+    <string name="rb_temp_text"> Temporary </string>
+    <string name="rb_intern_text"> Internal </string>
+    <string name="rb_extern_text"> External </string>
+    <!-- end of radio button -->
+    <string name="nama_file_hint"> Nama File </string>
+    <!-- button -->
+    <string name="btnOpen_text"> Open </string>
+    <string name="btnSave_text"> Save </string>
+    <string name="btnDelete_text"> Delete </string>
+    <string name="btnClear_text"> Clear </string>
+    <string name="btnExit_text"> Exit </string>
+
+    <!-- shared pref -->
+    <string name="counter_text"> 0 </string>
+    <!-- button text -->
+    <string name="button8_text"> HITAM </string>
+    <string name="button9_text"> MERAH </string>
+    <string name="button7_text"> BIRU </string>
+    <string name="button6_text"> HIJAU </string>
+    <string name="button10_text"> TAMBAH </string>
+    <string name="button11_text"> RESET </string>
+</resources>
